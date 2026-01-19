@@ -1,3 +1,3 @@
 # Currency-Convertor
-This my API project using JavaScript
+This is my first Repository.
 Authon -  Nikta Rathod
